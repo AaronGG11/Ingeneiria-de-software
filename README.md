@@ -1,4 +1,4 @@
-# Ingeneiria de software
+# Ingenieria de software
 Repositorio para el proyecto de la materia "Sistema de para el control de arbolado en CDMX".
 
 # Descripción
