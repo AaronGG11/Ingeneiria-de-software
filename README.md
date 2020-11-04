@@ -7,4 +7,4 @@ Construir un sistema que permita al Gobierno de la Ciudad de México realizar el
 ## Equipo de desarrollo 
 - Aarón Antonio García González
 - Paula Guadalupe Robles Sosa
--Israel Jimenez Lopez
+- Israel jimenez Lopez
