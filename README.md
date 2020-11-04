@@ -8,3 +8,5 @@ Construir un sistema que permita al Gobierno de la Ciudad de México realizar el
 - Aarón Antonio García González
 - Paula Guadalupe Robles Sosa
 - Israel jimenez Lopez
+- Erick Barragan Gamboa
+- Luis Enrique Rojas Alvarado
