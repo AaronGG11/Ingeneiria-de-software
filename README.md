@@ -10,4 +10,4 @@ Construir un sistema que permita al Gobierno de la Ciudad de México realizar el
 - Israel jimenez Lopez
 - Erick Barragan Gamboa
 - Luis Enrique Rojas Alvarado
-- Ruiz Hernández Rodrigo Antonio
+- Rodrigo Antonio Ruiz Hernández
