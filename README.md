@@ -11,3 +11,6 @@ Construir un sistema que permita al Gobierno de la Ciudad de México realizar el
 - Erick Barragan Gamboa
 - Luis Enrique Rojas Alvarado
 - Rodrigo Antonio Ruiz Hernández
+
+## Pendientes
+- Agregar historial de mantenimiento/reportes a cada árbol
