@@ -1,0 +1,14 @@
+#importante{
+    color: red;
+}
+#principal{
+    padding-top: 70px;
+}
+ul{
+    align-content:flex-end;
+}
+
+textarea{
+    width: 350px;
+    height: 200px;
+}
