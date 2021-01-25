@@ -1,0 +1,25 @@
+#importante{
+    color: red;
+}
+#principal{
+    padding-top: 10px;
+}
+ul{
+    align-content:flex-end;
+}
+
+#datosDenunciante {
+    background-color: rgb(190, 190, 190);
+}
+#datosDelito{
+    background-color: rgb(190, 190, 190);
+}
+
+#map_canvas {
+    width: auto; height: 500px;
+}
+
+
+h3{
+    padding-top: 10px;
+}
