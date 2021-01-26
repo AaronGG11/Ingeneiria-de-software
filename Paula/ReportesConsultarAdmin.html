@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://images.vexels.com/media/users/3/151907/isolated/preview/717ef2118af851bac26804fd539e8d5d-icono-de-aacute-rbol-de-parque-by-vexels.png">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    
+    <title>SGAU-CDMX</title>
+</head>
+<body>
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="#">Sistema de gestión <br>de arbolado urbano</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="index.html">INICIO
+                  <!-- <span class="sr-only">(current)</span> -->
+                </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="levantar_reporte.html">LEVANTAR UN REPORTE</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="misreportes.html">VER MIS REPORTES</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#"></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="contacto.html">CONTACTO</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+
+
+    <div class="grid-container">
+        <div class="item1"> 
+            <h1>Sistema de Gestión de Arbolado Urbano</h1>
+
+           
+
+
+        </div>
+        <div class="item2"> 
+            <h2 style="color: rgb(248, 248, 248)">Ver los Reportes solicitados</h2>    
+        </div>
+        <div class="item3">
+            <input type="search" name="usuario" id="user" placeholder="Folio">
+            <input type="submit" value="Buscar" id="buttonc">
+<!--             <div class="buttonc">
+                <button>Buscar</button> 
+            </div> -->
+            <p style="color: rgba(109, 0, 0, 0.972);">Por favor selecciona el folio para ver el reporte completo.</p>
+
+
+
+ <table class="table table-success table-striped, table-hover">
+    <thead class="table-dark" align="center">
+        <tr> 
+                <th colspan="4">Todos</td>
+        </tr>
+      <tr>
+        <th scope="col">Folio</th>
+        <th scope="col">Descripción</th>
+        <th scope="col">Fecha</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row"><input type="checkbox" id="cbox1" >INC000881</th>
+        <td>Daños a la vialidad</td>
+        <td>05/04/2020</td>
+      </tr>
+      <tr>
+        <th scope="row"><input type="checkbox" id="cbox2">INC000943</th>
+        <td>Plagas</td>
+        <td>01/15/2021</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <div class="container-fluid h-100"> 
+    <div class="row w-100 align-items-center">
+      <div class="col text-center">
+        <button class="btn btn-danger regular-button"> Ver Reporte </button>
+        <button class="btn btn-danger regular-button"> Cambiar Estado </button>
+
+      </div>	
+    </div>
+
+
+  </div>
+
+</body>
+</html>
